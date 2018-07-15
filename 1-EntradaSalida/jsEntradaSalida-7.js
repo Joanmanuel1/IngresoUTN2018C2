@@ -66,6 +66,6 @@ var num1
     num2=parseInt(num2);
 
     total=num1 / num2;
-
+total=parseFloat(total);
     alert("la division es " + total)
 }

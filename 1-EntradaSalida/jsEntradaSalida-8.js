@@ -13,7 +13,7 @@ function SacarResto()
     num2=document.getElementById("numeroDivisor").value;
     num2=parseInt(num2);
 
-total= num1 % num2;
+    total= num1 % num2;
 alert("el resto es " + total)
     
 }

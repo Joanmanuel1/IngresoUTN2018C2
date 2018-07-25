@@ -4,6 +4,8 @@ function mostrar()
 	var contador=1;
 	var acumulador=0;
 	var promedio;
+document.parseInt(prompt("Ingrese un numero: "))
+
 
 	while(contador<=5){
 

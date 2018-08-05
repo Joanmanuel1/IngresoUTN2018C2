@@ -13,7 +13,7 @@ function mostrar()
 
     }
 
-console.log(" Cantidad de pares: " + contadorDivisor);
+console.log(" Cantidad de divisores: " + contadorDivisor);
 
 
 }//FIN DE LA FUNCIÓN
